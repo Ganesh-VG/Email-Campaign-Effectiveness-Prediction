@@ -15,3 +15,7 @@ This project leverages machine learning to optimize email marketing by analyzing
 9. **Total Images** – Number of images present in the email.
 10. **Email Status** – Target variable indicating whether the email was ignored, read, or acknowledged.
 
+## Important Visualizations
+1. Subject Hotness Score Analysis
+   ![image](https://github.com/user-attachments/assets/e536a289-912a-442d-9781-96977c581257)
+   From the above data it is clear that we are lagging far away in maintaining good subject hotness score for the email that we are sending. And the box plot which is pointing data towards the lower subject hotness score is because of most of the emails having lower subject hotness score.
