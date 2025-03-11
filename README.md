@@ -124,3 +124,5 @@ Result :
 3. Continuous variables should be binned, with the dataset maintaining an equal number of emails in each bin to ensure balanced representation.
 4. Tests should be conducted separately for each customer location, considering behavioral differences across regions.
 5. Additional marketing metrics, such as email content urgency score, positivity score, and sentiment analysis, should be incorporated to examine psychological factors influencing customer engagement.
+
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/2909c00a-25d2-46c2-8f1d-deb4025fa09c" />
